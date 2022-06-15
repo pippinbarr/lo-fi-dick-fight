@@ -13,7 +13,7 @@ There is a somewhat-working HTML5 export of the game as well, which you can have
 ## Links
 
 * [Try the online version](https://pippinbarr.github.io/lo-fi-dick-fight/web/)
-* [The original .swf file](https://github.com/pippinbarr/lo-fi-dick-fight/releases/download/swf/)
+* [The original .swf file](https://github.com/pippinbarr/lo-fi-dick-fight/releases/tag/swf)
 * [Code repository](https://github.com/pippinbarr/lo-fi-dick-fight)
 
 ## Description
