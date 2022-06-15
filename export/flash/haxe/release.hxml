@@ -1,0 +1,12 @@
+-main ApplicationMain 
+-lib openfl
+-lib flixel
+-cp source
+-D tools=1.2.3
+-D openfl=1.2
+-D web
+-swf-version 11.2
+-swf export/flash/bin/LoFiDickFight.swf
+-swf-header 640:480:60:FFFFFF
+-cp export/flash/haxe
+#--remap nme:flash
